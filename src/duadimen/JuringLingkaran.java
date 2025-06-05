@@ -41,7 +41,7 @@ public class JuringLingkaran extends Lingkaran { // Corrected class name
         setSudutPusatRadian(sudutPusatRadian);
     }
 
-    // Encapsulation: Getters and Setters
+    // Encapsuulation: Getters and Setters
     public Double getSudutPusatDerajat() {
         return sudutPusatDerajat;
     }

@@ -1,5 +1,3 @@
-package main;
-
 import duadimen.*;
 import tigadimen.*;
 

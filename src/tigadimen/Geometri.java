@@ -1,6 +1,6 @@
 package tigadimen;
 
-import main.BendaGeometri;
+import maininter.BendaGeometri;
 
 import javax.swing.JOptionPane; // Used for simple error display in a GUI context
 

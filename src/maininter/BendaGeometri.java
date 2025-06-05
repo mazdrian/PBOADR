@@ -1,4 +1,4 @@
-package main;
+package maininter;
 
 /**
  * Interface representing a generic geometric object.
@@ -18,3 +18,5 @@ public interface BendaGeometri { //
      */
     Double hitungKelilingAtauVolume(); //
 }
+
+//Nama

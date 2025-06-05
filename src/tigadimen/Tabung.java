@@ -39,12 +39,12 @@ public class Tabung extends Geometri {
         return kelilingAtauVolume;
     }
 
-    // Specific method for volume for clarity in main.MainGeometryApp
+    // Specific method for volume for clarity in MainGeometryApp
     public Double hitungVolume() {
         return hitungKelilingAtauVolume();
     }
 
-    // Specific method for surface area for clarity in main.MainGeometryApp
+    // Specific method for surface area for clarity in MainGeometryApp
     public Double hitungLuasPermukaan() {
         return hitungLuas();
     }

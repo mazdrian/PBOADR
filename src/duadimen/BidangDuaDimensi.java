@@ -1,7 +1,7 @@
 package duadimen;
 
 
-import main.BendaGeometri;
+import maininter.BendaGeometri;
 
 /**
  * Interface representing a 2D geometric plane.

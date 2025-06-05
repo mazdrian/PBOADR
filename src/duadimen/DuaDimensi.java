@@ -2,7 +2,6 @@ package duadimen;
 
 
 import tigadimen.Geometri;
-import main.MainGeometryApp;
 
 /**
  * Abstract class representing a 2D geometric shape.
@@ -34,3 +33,5 @@ public abstract class DuaDimensi extends Geometri implements BidangDuaDimensi { 
         return hitungKeliling(); // For 2D shapes, kelilingAtauVolume is keliling
     }
 }
+
+//harusnya ngaada volume, dan ada abstract class untuk tigademensi
